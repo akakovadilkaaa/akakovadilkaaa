@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @akakovadilkaaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, this is my Artic project for Code The Dream.
+It has 2 models(Artworks and Products). So basically you will see data from 'https://api.artic.edu'.
 
-<!---
-akakovadilkaaa/akakovadilkaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Wanna see it?)
+Here are the steps you should follow:
+  -git clone 'my_repository'
+  -cd artic_project
+  -grab/open index.html to any webBrowser
+  -enjoy!!!```
+
+NOTE: I don't know why, but sometimes fetching take a long time, that's why you should wait longer:)
